@@ -28,4 +28,4 @@ json files as a csv file and merge the two json files into a single csv file,
 that will contain the edges.
 
 ## Building the network ...
- TODO
+ The network is built using the Gephi tool in the proj2.gephi file.
